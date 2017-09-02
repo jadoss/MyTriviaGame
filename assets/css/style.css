@@ -1,0 +1,52 @@
+* {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+body{
+	background-image: url("http://www.eatwisconsincheese.com/EatWisconsinCheese/media/content/hero%20images/hero-cheese.png");
+	background-size: cover
+	margin: 0px;
+	font-size: 18px;
+}
+
+#logo {
+	height: 100px;
+	width: 100px;
+}
+
+.cheeseImage{
+	width: 300px;
+	height: 250px;
+}
+
+#header{
+	text-align: center;
+	width: 100%;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/000/094/524/non_2x/free-cheese-seamless-vector.jpg");
+	margin: 0px;
+	height: 100px;
+	border: 10px white solid;
+
+}
+
+#initInstruction{
+	width: 50%;
+	margin: auto;
+
+}
+
+#game-content{
+	width: 75%;
+	margin: auto;
+	padding: 20%;
+	background-color: #f2cf7d;
+	padding: 20px;
+	border-radius: 25px;
+	border: 10px white solid;
+
+}
+
+.choices:hover{
+	font-weight: bold;
+}
